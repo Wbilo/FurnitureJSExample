@@ -1,0 +1,18 @@
+{
+    "chairs": [
+        {
+            "model": "a432s",
+            "manufacturer": "Trendway",
+            "weight": 2,
+            "price": 30,
+            "legCount": 3
+        },
+        {
+            "model": "a434s",
+            "manufacturer": "Trendway",
+            "weight": 4,
+            "price": 40,
+            "legCount": 4
+        }
+    ]
+}
